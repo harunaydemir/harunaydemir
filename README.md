@@ -11,7 +11,7 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 </p>
 
 * **Yazılım Dilleri & Teknolojiler:** Python, C, Java, C#, Kotlin, SQL, HTML, CSS, JavaScript.
-* **Mobil Geliştirme:** Kotlin & Android Studio (Android ekosistemi ve modern mimariler ile uygulama geliştirme)[cite: 1].
+* **Mobil Geliştirme:** Kotlin & Android Studio (Android ekosistemi ve modern mimariler ile uygulama geliştirme).
 * **Yapay Zeka & Veri:** Python tabanlı makine öğrenmesi, veri analizi, derin öğrenme, konuşma işleme ve duygu analizi süreçleri.
 * **Masaüstü & Otomasyon Sistemleri:** C# & .NET Framework / Windows Forms ile kurumsal otomasyon ve simülasyon projeleri.
 
@@ -19,11 +19,11 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 
 ### 🌱 Güncel Çalışmalarım
 
-* C# ve MSSQL kullanarak sınav salonu atamalarını ve personel yönetimini optimize eden akıllı otomasyon sistemleri tasarlıyorum[cite: 2].
-* Kotlin ve Android ekosistemindeki yetkinliklerimi interaktif mobil uygulamalar (Örn: NovaSpeak) geliştirerek derinleştiriyorum[cite: 2, 3].
-* Aldığım kurumsal eğitimler (Otomotiv Yaz Kampı vb.) ve teknik çalışmalarla yazılım altyapımı her geçen gün güçlendiriyorum[cite: 3].
-* Trafik akış algoritmaları, radar tabanlı çarpışma önleme (ACC) ve simülasyon projeleri üzerine çalışıyorum[cite: 2, 3].
-* C# ve WinForms kullanarak, ağ tabanlı eşleşme sağlayan TCP/IP destekli çok oyunculu (Multiplayer) Amiral Battı simülasyonları geliştiriyorum[cite: 2].
+* C# ve MSSQL kullanarak sınav salonu atamalarını ve personel yönetimini optimize eden akıllı otomasyon sistemleri tasarlıyorum.
+* Kotlin ve Android ekosistemindeki yetkinliklerimi interaktif mobil uygulamalar (Örn: NovaSpeak) geliştirerek derinleştiriyorum.
+* Aldığım kurumsal eğitimler (Otomotiv Yaz Kampı vb.) ve teknik çalışmalarla yazılım altyapımı her geçen gün güçlendiriyorum.
+* Trafik akış algoritmaları, radar tabanlı çarpışma önleme (ACC) ve simülasyon projeleri üzerine çalışıyorum.
+* C# ve WinForms kullanarak, ağ tabanlı eşleşme sağlayan TCP/IP destekli çok oyunculu (Multiplayer) Amiral Battı simülasyonları geliştiriyorum.
 
 ---
 
@@ -40,6 +40,5 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 
 ### 📬 İletişim
 
-* **LinkedIn:** [harun-aydemir](https://www.linkedin.com/in/harun-aydemir)[cite: 1]
-* **GitHub:** [harunaydemir](https://github.com/harunaydemir)[cite: 1, 2]
-* **E-posta:** harunaydemirpr@gmail.com[cite: 1, 3]
+* **LinkedIn:** [harun-aydemir](https://www.linkedin.com/in/harun-aydemir)
+* **E-posta:** harunaydemirpr@gmail.com
