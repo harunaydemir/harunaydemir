@@ -4,7 +4,7 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 
 ---
 
-### 🛠️ Tech Stack / Yetkinlikler
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,7 +23,7 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 </p>
 
 * **Yazılım Dilleri & Teknolojiler:** Python, C, Java, C#, Kotlin, SQL, HTML, CSS, JavaScript.
-* **Mobil Geliştirme:** Kotlin & Android Studio (Android ekosistemi ve modern mimariler ile uygulama geliştirme).
+* **Mobil Geliştirme:** Kotlin & Android Studio (Android ekosistemi ve modern mimariler ile uygulama geliştirme)
 * **Yapay Zeka & Veri:** Python tabanlı makine öğrenmesi, veri analizi, derin öğrenme, konuşma işleme ve duygu analizi süreçleri.
 * **Masaüstü & Otomasyon Sistemleri:** C# & .NET Framework / Windows Forms ile kurumsal otomasyon ve simülasyon projeleri.
 
@@ -50,7 +50,7 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 
 ---
 
-### 📬 İletişim
+### Connect with me:
 
 <p>
   <a href="https://www.linkedin.com/in/harun-aydemir" target="_blank">
