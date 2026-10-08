@@ -33,7 +33,7 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 
 * C# ve MSSQL kullanarak sınav salonu atamalarını ve personel yönetimini optimize eden akıllı otomasyon sistemleri tasarlıyorum.
 * Kotlin ve Android ekosistemindeki yetkinliklerimi interaktif mobil uygulamalar (Örn: NovaSpeak) geliştirerek derinleştiriyorum.
-* Aldığım kurumsal eğitimler (Otomotiv Yaz Kampı vb.) ve teknik çalışmalarla yazılım altyapımı her geçen gün güçlendiriyorum.
+* Aldığım kurumsal eğitimler ve teknik çalışmalarla yazılım altyapımı her geçen gün güçlendiriyorum.
 * Trafik akış algoritmaları, radar tabanlı çarpışma önleme (ACC) ve simülasyon projeleri üzerine çalışıyorum.
 * C# ve WinForms kullanarak, ağ tabanlı eşleşme sağlayan TCP/IP destekli çok oyunculu (Multiplayer) Amiral Battı simülasyonları geliştiriyorum.
 
