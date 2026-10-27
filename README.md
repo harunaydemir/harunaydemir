@@ -31,10 +31,10 @@ Manisa Celal Bayar Üniversitesi'nde Yazılım Mühendisliği 3. sınıf öğren
 
 ### 🌱 Güncel Çalışmalarım
 
-* C# ve MSSQL kullanarak sınav salonu atamalarını ve personel yönetimini optimize eden akıllı otomasyon sistemleri tasarlıyorum.
-* Kotlin ve Android ekosistemindeki yetkinliklerimi interaktif mobil uygulamalar geliştirerek derinleştiriyorum.
-* Trafik akış algoritmaları, radar tabanlı çarpışma önleme (ACC) ve simülasyon projeleri üzerine çalışıyorum.
-* C# ve WinForms kullanarak, ağ tabanlı eşleşme sağlayan TCP/IP destekli çok oyunculu (Multiplayer) Amiral Battı simülasyonları geliştiriyorum.
+* C# ve MSSQL kullanarak sınav salonu atamalarını ve personel yönetimini optimize eden akıllı otomasyon sistemleri tasarladım.
+* Kotlin ve Android ekosistemindeki yetkinliklerimi interaktif mobil uygulamalar geliştirerek derinleştirdim.
+* Trafik akış algoritmaları, radar tabanlı çarpışma önleme (ACC) ve simülasyon projeleri üzerine çalıştım.
+* C# ve WinForms kullanarak, ağ tabanlı eşleşme sağlayan TCP/IP destekli çok oyunculu (Multiplayer) Amiral Battı simülasyonları geliştirdim.
 * Aldığım kurumsal eğitimler ve teknik çalışmalarla yazılım altyapımı her geçen gün güçlendiriyorum.
 
 ---
